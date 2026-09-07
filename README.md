@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31901397/README.md)
 # Mediroza General Hospital — Web Application Penetration Test
 
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
