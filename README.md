@@ -1,14 +1,12 @@
 # Mediroza General Hospital — Web Application Penetration Test
 
-##![Status](https://img.shields.io/badge/status-complete-brightgreen)
-##![Type](https://img.shields.io/badge/engagement-authorised%20black--box-blue)
-##![Severity](https://img.shields.io/badge/highest%20severity-critical-critical?color=b03a2e)
-##![License](https://img.shields.io/badge/docs%20license-MIT-lightgrey)
+[![Status](https://img.shields.io/badge/status-complete-brightgreen?style=for-the-badge)](#engagement-status)
+[![Type](https://img.shields.io/badge/engagement-authorised%20black--box-blue?style=for-the-badge)](#assessment-overview)
+[![Assessment](https://img.shields.io/badge/assessment-web%20application%20pentest-0969da?style=for-the-badge)](#assessment-overview)
+[![Methodology](https://img.shields.io/badge/methodology-OWASP%20WSTG-8250df?style=for-the-badge)](#methodology)
+[![Highest Severity](https://img.shields.io/badge/highest%20severity-critical-d73a49?style=for-the-badge)](#risk-summary)
 
-A student penetration testing engagement against a purpose-built, fictional hospital web application (`medirozahospital.com`), completed as part of the **Networkwalks Academy** cybersecurity training program. This repository contains the full methodology, evidence, and final client-facing report produced across all four project milestones.
-
-> **This is a training lab.** Mediroza General Hospital, its staff, patients, and data are entirely fictional and were generated for this exercise. All testing was carried out in a controlled environment against a target the student was explicitly authorised, in writing, to test. Nothing in this repository was performed against a real organisation.
-
+A comprehensive web application penetration testing engagement for Mediroza General Hospital (medirozahospital.com), conducted as part of the Networkwalks Academy cybersecurity training program. This repository documents the complete assessment methodology, security findings, supporting evidence, remediation recommendations, and final client-facing report developed across all four project milestones.
 ---
 
 ## Table of Contents
@@ -21,7 +19,7 @@ A student penetration testing engagement against a purpose-built, fictional hosp
 - [Tools Used](#tools-used)
 - [Report](#report)
 - [Disclaimer](#disclaimer)
-- [License](#license)
+
 
 ---
 
@@ -37,7 +35,6 @@ A student penetration testing engagement against a purpose-built, fictional hosp
 | **Platform** | Kali Linux |
 | **Report date** | 7 September 2026 |
 
-The objective was to simulate a real-world external attacker targeting the hospital's patient portal and supporting infrastructure, culminating in a professional penetration testing report suitable for delivery to a client.
 
 ## Milestones
 
@@ -67,8 +64,7 @@ Full details, CVSS-aligned risk ratings, evidence, and remediation guidance for 
 
 ```
 mediroza-pentest/
-├── README.md                      # This file
-├── LICENSE                        # Documentation license
+├── README.md                      # This file                       
 ├── docs/
 │   ├── engagement-brief.md        # Original milestone brief (M1–M4)
 │   └── methodology.md             # Testing methodology and rules of engagement
@@ -111,8 +107,6 @@ The full professional penetration testing report — Executive Summary, Scope & 
 
 ## Disclaimer
 
-This project is conducted in a controlled environment for **educational purposes only**. The target was a purpose-built training application authorised for security testing by Networkwalks Academy. These techniques must never be applied to any system without explicit written permission from the owner. Unauthorised access to computer systems is illegal in most jurisdictions.
+This penetration testing engagement was conducted with explicit authorization from Networkwalks Academy. All testing activities were performed within the agreed scope and in accordance with the applicable rules of engagement.
 
-## License
-
-The written documentation in this repository (README, report, and docs) is released under the [MIT License](LICENSE). This license covers the write-up only — it does not grant permission to test any system, and no warranty is made regarding the accuracy of the fictional data used in this exercise.
+The techniques and procedures documented in this repository are intended for authorized security testing and defensive purposes only. Security testing must never be performed against systems, applications, or infrastructure without explicit permission from the owner. Unauthorized access or security testing may violate applicable laws and regulations.
