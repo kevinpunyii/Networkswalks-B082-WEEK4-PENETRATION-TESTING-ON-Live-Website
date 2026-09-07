@@ -1,9 +1,9 @@
 # Mediroza General Hospital — Web Application Penetration Test
 
-![Status](https://img.shields.io/badge/status-complete-brightgreen)
-![Type](https://img.shields.io/badge/engagement-authorised%20black--box-blue)
-![Severity](https://img.shields.io/badge/highest%20severity-critical-critical?color=b03a2e)
-![License](https://img.shields.io/badge/docs%20license-MIT-lightgrey)
+##![Status](https://img.shields.io/badge/status-complete-brightgreen)
+##![Type](https://img.shields.io/badge/engagement-authorised%20black--box-blue)
+##![Severity](https://img.shields.io/badge/highest%20severity-critical-critical?color=b03a2e)
+##![License](https://img.shields.io/badge/docs%20license-MIT-lightgrey)
 
 A student penetration testing engagement against a purpose-built, fictional hospital web application (`medirozahospital.com`), completed as part of the **Networkwalks Academy** cybersecurity training program. This repository contains the full methodology, evidence, and final client-facing report produced across all four project milestones.
 
